@@ -3,7 +3,7 @@
 Комаров Олег, Маканин Ярослав, Петелина Полина, Финошина София (БГП201)
 
 ## Ссылка
-Сайт: https://fobosguy.github.io/msa-project-3.2/ 
+Сайт: https://fobosguy.github.io/msa-project-3.2/ <br />
 Docs: https://docs.google.com/document/d/1z2WFV8GwYCacNHzhF3REBbxxRgP7RZSPcAGrWyXDWM0/edit
 
 ## Информация
